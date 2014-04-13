@@ -254,7 +254,7 @@ ul#menu-main > li > a:hover {
 ---------------------------------------------------------------------------------------------------------- */
 #headerwrap {
 	width: 100%;
-	background: url(../img/top-bg.jpg) #0b333f no-repeat center center fixed;
+	background: url(../img/Cool.jpg) #0b333f no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -262,7 +262,7 @@ ul#menu-main > li > a:hover {
 	;
 	min-height: 600px;
 	margin-top: -60px;
-	padding-top:160px;
+	padding-top:260px;
 	text-align:center;
 }
 #headerwrap h1 {
